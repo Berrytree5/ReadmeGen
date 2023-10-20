@@ -12,7 +12,10 @@ CL-A which allows you and easy way to create a professional Readme File.
 - [Questions](#questions)
 
 ## Installation
-Clone the repo into your terminal and install it directly to the folder you are using.
+To properly test/run your ReadMe Generator.
+Open your terminal
+type in the following: "node index.js"
+Follow the questions when prompted.
 
 ## Usage
 Frequency,Installation,Contributions and tests.
